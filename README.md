@@ -1,7 +1,3 @@
-Here's an updated version of the `README.md` file that includes the additional JavaScript (`script-theme.js`) and CSS (`theme-changer.css`) files:
-
----
-
 # Cursor Animation Effect
 
 This project implements a custom animated cursor effect with a light/dark theme toggle using HTML, CSS, and JavaScript. The cursor effect creates a trail of animated circles that follow the user's mouse movements, and the page background can be toggled between light and dark modes.
