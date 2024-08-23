@@ -1,0 +1,8 @@
+.bi {
+    font-size: 40px;
+    cursor: pointer;
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
